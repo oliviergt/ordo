@@ -1,0 +1,538 @@
+{
+  "Advent Embertide": {},
+  "All Souls' Day": {
+    "url": "http://uvoc.org/Holy_Souls/Holy_Souls.html"
+  },
+  "Ascension": {
+    "url": "http://uvoc.org/Ascension/Ascension.html"
+  },
+  "Ash Wednesday": {},
+  "Basilicas of SS. Peter & Paul": {},
+  "Candlemas": {
+    "url": "http://uvoc.org/Purification_BVM/Purification_BVM.html"
+  },
+  "Cantate Sunday": {
+    "url": "http://uvoc.org/4th_Sun_After_Easter/4th_Sun_After_Easter.html"
+  },
+  "Childermas": {
+    "url": "http://uvoc.org/Holy_Innocents/Holy_Innocents.html"
+  },
+  "Christmas": {
+    "url": "http://uvoc.org/Christmas/Christmas.html"
+  },
+  "Christmas Eve": {
+    "url": "http://uvoc.org/Vigil_of_Nativity/Vigil_of_Nativity.html"
+  },
+  "Conversion of St. Paul": {},
+  "Corpus Christi": {
+    "url": "http://uvoc.org/Corpus_Christi/Corpus_Christi.html"
+  },
+  "Easter": {
+    "url": "http://uvoc.org/Easter_Day/Easter_Day.html"
+  },
+  "Easter Friday": {},
+  "Easter Monday": {},
+  "Easter Saturday": {},
+  "Easter Thursday": {},
+  "Easter Tuesday": {},
+  "Easter Wednesday": {},
+  "Fat Thursday": {},
+  "Gaudete Sunday": {
+    "url": "http://uvoc.org/3rd_Sun_of_Advent/3rd_Sun_of_Advent.html"
+  },
+  "Golden Nights": {},
+  "Good Friday": {},
+  "Halloween": {},
+  "Hallowmas": {
+    "url": "http://uvoc.org/All_Saints/All_Saints.html"
+  },
+  "Holy Saturday": {},
+  "Jubilate Sunday": {
+    "url": "http://uvoc.org/3rd_Sun_After_Easter/3rd_Sun_After_Easter.html"
+  },
+  "Lady Day": {},
+  "Laetare Sunday": {
+    "url": "http://uvoc.org/4th_Sun_of_Lent/4th_Sun_of_Lent.html"
+  },
+  "Las Posadas": {},
+  "Lenten Embertide": {},
+  "Major Rogation": {},
+  "Mardi Gras": {},
+  "Martinmas": {},
+  "Marymass": {
+    "url": "http://uvoc.org/Assumption/Assumption.html"
+  },
+  "Maundy Thursday": {},
+  "Michaelmas": {
+    "url": "http://uvoc.org/St_Michael/St_Michael.html"
+  },
+  "Michaelmas Embertide": {},
+  "Minor Rogation": {},
+  "Misericordia Sunday": {
+    "url": "http://uvoc.org/2nd_Sun_After_Easter/2nd_Sun_After_Easter.html"
+  },
+  "Monday of Holy Week": {},
+  "Our Lady of Guadalupe": {},
+  "Our Lady of Mt. Carmel": {},
+  "Our Lady of Ransom": {},
+  "Palm Sunday": {
+    "url": "http://uvoc.org/Palm_Sun/Palm_Sun.html"
+  },
+  "Passion Sunday": {
+    "url": "http://uvoc.org/Passion_Sun/Passion_Sun.html"
+  },
+  "Pentecost": {
+    "url": "http://uvoc.org/Pentecost/Pentecost.html"
+  },
+  "Pentecost Monday": {},
+  "Pentecost Tuesday": {},
+  "Peter's Pence": {},
+  "Plough Monday": {},
+  "Quasimodo Sunday": {
+    "url": "http://uvoc.org/Low_Sun/Low_Sun.html"
+  },
+  "Quinquagesima": {
+    "url": "http://uvoc.org/Quinquagesima_Sun/Quinquagesima_Sun.html"
+  },
+  "Roodmas": {
+    "url": "http://uvoc.org/Holy_Cross/Holy_Cross.html"
+  },
+  "Septuagesima": {
+    "url": "http://uvoc.org/Septuagesima_Sun/Septuagesima_Sun.html"
+  },
+  "Sexagesima": {
+    "url": "http://uvoc.org/Sexagesima_Sun/Sexagesima_Sun.html"
+  },
+  "Shrove Monday": {},
+  "Spy Wednesday": {},
+  "Sunday after Ascension": {
+    "url": "http://uvoc.org/Sun_After_Ascension/Sun_After_Ascension.html"
+  },
+  "Sunday within the Octave of Christmas": {
+    "url": "http://uvoc.org/Sun_In_Oct_of_Nativity/Sun_In_Oct_of_Nativity.html"
+  },
+  "The Commemoration of Pope Anicetus": {},
+  "The Commemoration of Pope Evaristus": {},
+  "The Commemoration of Pope Felix I": {},
+  "The Commemoration of Pope Hyginus": {},
+  "The Commemoration of Pope Melchiades": {},
+  "The Commemoration of Pope Pius I": {},
+  "The Commemoration of Pope Silverius": {},
+  "The Commemoration of Pope Zephyrinus": {},
+  "The Commemoration of SS. Abdon & Sennen": {},
+  "The Commemoration of SS. Alexander & Companions": {},
+  "The Commemoration of SS. Basilides, Cyrinus, Nabor, & Nazarius": {},
+  "The Commemoration of SS. Chrysanthus & Daria": {},
+  "The Commemoration of SS. Cyprian & Justina": {},
+  "The Commemoration of SS. Cyriacus, Largus, & Smaragdus": {},
+  "The Commemoration of SS. Faustinus & Jovita": {},
+  "The Commemoration of SS. Felix & Adauctus": {},
+  "The Commemoration of SS. Gervase & Protase": {},
+  "The Commemoration of SS. Hippolytus & Cassian": {},
+  "The Commemoration of SS. Marcellinus, Peter, & St. Erasmus": {},
+  "The Commemoration of SS. Marius, Martha, Audifax, & Abachum": {},
+  "The Commemoration of SS. Mark & Marcellian": {},
+  "The Commemoration of SS. Primus & Felician": {},
+  "The Commemoration of SS. Protus & Hyacinth": {},
+  "The Commemoration of SS. Vitus, Modestus, & Crescentia": {},
+  "The Commemoration of St. Agapitus": {},
+  "The Commemoration of St. Alexius": {},
+  "The Commemoration of St. Andrew Corsini": {},
+  "The Commemoration of St. Blaise": {},
+  "The Commemoration of St. Boniface of Tarsus": {},
+  "The Commemoration of St. Christina": {},
+  "The Commemoration of St. Eustace and Companions": {},
+  "The Commemoration of St. George": {},
+  "The Commemoration of St. Giles": {},
+  "The Commemoration of St. Gorgonius": {},
+  "The Commemoration of St. Hilarion": {},
+  "The Commemoration of St. Pantaleon": {},
+  "The Commemoration of St. Placid": {},
+  "The Commemoration of St. Praxedes": {},
+  "The Commemoration of St. Prisca": {},
+  "The Commemoration of St. Remigius": {},
+  "The Commemoration of St. Sabbas": {},
+  "The Commemoration of St. Saturninus": {},
+  "The Commemoration of St. Simeon": {},
+  "The Commemoration of St. Tiburtius & St. Susanna": {},
+  "The Commemoration of St. Valentine": {},
+  "The Commemoration of the Four Crowned Holy Martyrs": {},
+  "The Commemoration of the Holy Machabees": {},
+  "The Commemoration of the Stigmata of St. Francis": {},
+  "The Eighteenth Sunday after Pentecost": {
+    "url": "http://uvoc.org/18th_Sun_After_Pent/18th_Sun_After_Pent.html"
+  },
+  "The Eighth Sunday after Pentecost": {},
+  "The Eleventh Sunday after Pentecost": {
+    "url": "http://uvoc.org/11th_Sun_After_Pent/11th_Sun_After_Pent.html"
+  },
+  "The Feast of Christ the King": {
+    "url": "http://uvoc.org/Christ_the_King/Christ_the_King.html"
+  },
+  "The Feast of Pope Callistus I": {},
+  "The Feast of Pope Celestine V": {},
+  "The Feast of Pope Clement I": {},
+  "The Feast of Pope Cornelius & St. Cyprian": {},
+  "The Feast of Pope Damasus I": {},
+  "The Feast of Pope Fabian & St. Sebastian": {},
+  "The Feast of Pope Gregory VII": {},
+  "The Feast of Pope Gregory the Great": {},
+  "The Feast of Pope Leo the Great": {},
+  "The Feast of Pope Linus": {},
+  "The Feast of Pope Marcellus I": {},
+  "The Feast of Pope Martin I": {},
+  "The Feast of Pope Pius V": {},
+  "The Feast of Pope Pius X": {},
+  "The Feast of Pope Sylvester I": {},
+  "The Feast of SS. Cletus and Marcellinus": {},
+  "The Feast of SS. Cosmas & Damian": {},
+  "The Feast of SS. Cyril and Methodius": {},
+  "The Feast of SS. John & Paul": {},
+  "The Feast of SS. Nazarius & Celsus, St. Victor I, St. Innocent I": {},
+  "The Feast of SS. Nereus, Achilleus, Domitilla, & Pancras": {},
+  "The Feast of SS. Perpetua and Felicitas": {},
+  "The Feast of SS. Peter & Paul": {
+    "url": "http://uvoc.org/Peter_Paul/Peter_Paul.html"
+  },
+  "The Feast of SS. Philip & James": {},
+  "The Feast of SS. Simon & Jude": {},
+  "The Feast of SS. Soter & Caius": {},
+  "The Feast of SS. Vincent & Anastasius": {},
+  "The Feast of St. Agatha": {},
+  "The Feast of St. Agnes": {},
+  "The Feast of St. Albert the Great": {},
+  "The Feast of St. Alphonsus Liguori": {},
+  "The Feast of St. Ambrose": {},
+  "The Feast of St. Andrew": {},
+  "The Feast of St. Andrew Avellino": {},
+  "The Feast of St. Angela Merici": {},
+  "The Feast of St. Anne": {},
+  "The Feast of St. Anselm": {},
+  "The Feast of St. Anthony Mary Claret": {},
+  "The Feast of St. Anthony Mary Zaccaria": {},
+  "The Feast of St. Anthony of Padua": {},
+  "The Feast of St. Anthony the Great": {},
+  "The Feast of St. Antoninus": {},
+  "The Feast of St. Apollinaris": {},
+  "The Feast of St. Athanasius": {},
+  "The Feast of St. Augustine": {},
+  "The Feast of St. Augustine of Canterbury": {},
+  "The Feast of St. Barbara": {},
+  "The Feast of St. Barnabas": {},
+  "The Feast of St. Bartholomew": {},
+  "The Feast of St. Basil the Great": {},
+  "The Feast of St. Bede the Venerable": {},
+  "The Feast of St. Benedict": {},
+  "The Feast of St. Bernard": {},
+  "The Feast of St. Bernardine of Siena": {},
+  "The Feast of St. Bibiana": {},
+  "The Feast of St. Bonaventure": {},
+  "The Feast of St. Boniface": {},
+  "The Feast of St. Bridget": {},
+  "The Feast of St. Brigid": {},
+  "The Feast of St. Bruno": {},
+  "The Feast of St. Cajetan": {},
+  "The Feast of St. Camillus de Lellis": {},
+  "The Feast of St. Casimir": {},
+  "The Feast of St. Catherine of Alexandria": {},
+  "The Feast of St. Catherine of Siena": {},
+  "The Feast of St. Cecilia": {},
+  "The Feast of St. Charles Borromeo": {},
+  "The Feast of St. Clare": {},
+  "The Feast of St. Cyril of Alexandria": {},
+  "The Feast of St. Cyril of Jerusalem": {},
+  "The Feast of St. Didacus": {},
+  "The Feast of St. Dominic": {},
+  "The Feast of St. Edward": {},
+  "The Feast of St. Elizabeth": {},
+  "The Feast of St. Elizabeth of Hungary": {},
+  "The Feast of St. Ephrem": {},
+  "The Feast of St. Eusebius": {},
+  "The Feast of St. Felix of Valois": {},
+  "The Feast of St. Fidelis of Sigmaringen": {},
+  "The Feast of St. Frances of Rome": {},
+  "The Feast of St. Francis Borgi": {},
+  "The Feast of St. Francis Caracciolo": {},
+  "The Feast of St. Francis Xavier": {},
+  "The Feast of St. Francis de Sales": {},
+  "The Feast of St. Francis of Assisi": {},
+  "The Feast of St. Francis of Paula": {},
+  "The Feast of St. Gabriel": {},
+  "The Feast of St. Gabriel of Our Lady of Sorrows": {},
+  "The Feast of St. Gerard Majella": {},
+  "The Feast of St. Gertrude": {},
+  "The Feast of St. Gregory Barbarigo": {},
+  "The Feast of St. Gregory Nazianzen": {},
+  "The Feast of St. Gregory Thaumaturgus": {},
+  "The Feast of St. Hedwig": {},
+  "The Feast of St. Henry": {},
+  "The Feast of St. Hermenegild": {},
+  "The Feast of St. Hilary": {},
+  "The Feast of St. Hyacinth": {},
+  "The Feast of St. Ignatius": {},
+  "The Feast of St. Ignatius of Loyola": {},
+  "The Feast of St. Irenaeus": {},
+  "The Feast of St. Isidore": {},
+  "The Feast of St. James the Greater": {},
+  "The Feast of St. Jane Frances Fremiot de Chantal": {},
+  "The Feast of St. Januarius": {},
+  "The Feast of St. Jerome": {},
+  "The Feast of St. Jerome Emilian": {},
+  "The Feast of St. Joachim": {},
+  "The Feast of St. Joan of Arc": {},
+  "The Feast of St. John": {},
+  "The Feast of St. John Baptist de la Salle": {},
+  "The Feast of St. John Bosco": {},
+  "The Feast of St. John Cantius": {},
+  "The Feast of St. John Capistrano": {},
+  "The Feast of St. John Chrysostom": {},
+  "The Feast of St. John Damascene": {},
+  "The Feast of St. John Eudes": {},
+  "The Feast of St. John Gualbert": {},
+  "The Feast of St. John Leonardi": {},
+  "The Feast of St. John Mary Vianney": {},
+  "The Feast of St. John of God": {},
+  "The Feast of St. John of Matha": {},
+  "The Feast of St. John of St. Facundo": {},
+  "The Feast of St. John of the Cross": {},
+  "The Feast of St. John's Day": {
+    "url": "http://uvoc.org/St_John_Baptist/St_John_Baptist.html"
+  },
+  "The Feast of St. John's Eve": {},
+  "The Feast of St. Josaphat": {},
+  "The Feast of St. Joseph": {},
+  "The Feast of St. Joseph Calasanctius": {},
+  "The Feast of St. Joseph of Cupertino": {},
+  "The Feast of St. Joseph the Worker": {
+    "url": "http://uvoc.org/St_Joseph_Workman/St_Joseph_Workman.html"
+  },
+  "The Feast of St. Juliana Falconieri": {},
+  "The Feast of St. Justin": {},
+  "The Feast of St. Lawrence": {},
+  "The Feast of St. Lawrence Justinian": {},
+  "The Feast of St. Lawrence of Brindisi": {},
+  "The Feast of St. Louis": {},
+  "The Feast of St. Lucy": {},
+  "The Feast of St. Luke": {},
+  "The Feast of St. Margaret": {},
+  "The Feast of St. Margaret Mary Alacoque": {},
+  "The Feast of St. Mark": {},
+  "The Feast of St. Mark's Eve": {},
+  "The Feast of St. Martha": {},
+  "The Feast of St. Martina": {},
+  "The Feast of St. Mary Magdalen": {},
+  "The Feast of St. Mary Magdalen of Pazzi": {},
+  "The Feast of St. Matthew": {},
+  "The Feast of St. Matthias": {},
+  "The Feast of St. Monica": {},
+  "The Feast of St. Nicholas": {},
+  "The Feast of St. Nicholas of Tolentino": {},
+  "The Feast of St. Norbert": {},
+  "The Feast of St. Pascal Baylon": {},
+  "The Feast of St. Patrick": {},
+  "The Feast of St. Paul": {},
+  "The Feast of St. Paul of the Cross": {},
+  "The Feast of St. Paul the Hermit": {},
+  "The Feast of St. Paulinus": {},
+  "The Feast of St. Peter Canisius": {},
+  "The Feast of St. Peter Chrysologus": {},
+  "The Feast of St. Peter Damian": {},
+  "The Feast of St. Peter Nolasco": {},
+  "The Feast of St. Peter of Alcántara": {},
+  "The Feast of St. Peter of Verona": {},
+  "The Feast of St. Peter's Chair": {
+    "url": "http://uvoc.org/St_Peters_Chair_Rome/St_Peters_Chair_Rome.html"
+  },
+  "The Feast of St. Philip Benizi": {},
+  "The Feast of St. Philip Neri": {},
+  "The Feast of St. Polycarp": {},
+  "The Feast of St. Raphael": {},
+  "The Feast of St. Raymond Nonnatus": {},
+  "The Feast of St. Raymond of Peñafort": {},
+  "The Feast of St. Rita of Cascia": {},
+  "The Feast of St. Robert Bellarmine": {},
+  "The Feast of St. Roch": {},
+  "The Feast of St. Romuald": {},
+  "The Feast of St. Rose of Lima": {},
+  "The Feast of St. Scholastica": {},
+  "The Feast of St. Stanislaus": {},
+  "The Feast of St. Stephen": {},
+  "The Feast of St. Stephen I": {},
+  "The Feast of St. Sylvester": {},
+  "The Feast of St. Teresa of Avila": {},
+  "The Feast of St. Theresa of Lisieux": {},
+  "The Feast of St. Thomas": {},
+  "The Feast of St. Thomas Aquinas": {},
+  "The Feast of St. Thomas Becket": {},
+  "The Feast of St. Thomas of Villanova": {},
+  "The Feast of St. Timothy": {},
+  "The Feast of St. Titus": {},
+  "The Feast of St. Ubald": {},
+  "The Feast of St. Venantius": {},
+  "The Feast of St. Vincent Ferrer": {},
+  "The Feast of St. Vincent de Paul": {},
+  "The Feast of St. Walpurga": {},
+  "The Feast of St. Wenceslaus": {},
+  "The Feast of St. William": {},
+  "The Feast of the Apparition at Lourdes": {},
+  "The Feast of the Baptism of Christ": {},
+  "The Feast of the Basilica of St. John Lateran": {
+    "url": "http://uvoc.org/St_Savior/St_Savior.html"
+  },
+  "The Feast of the Beheading of John the Baptist": {},
+  "The Feast of the Church of St. Mary of the Snow": {},
+  "The Feast of the Circumcision": {
+    "url": "http://uvoc.org/Circumcision/Circumcision.html"
+  },
+  "The Feast of the Forty Martyrs": {},
+  "The Feast of the Holy Family": {
+    "url": "http://uvoc.org/Holy_Family/Holy_Family.html"
+  },
+  "The Feast of the Holy Guardian Angels": {},
+  "The Feast of the Holy Name": {
+    "url": "http://uvoc.org/Holy_Name/Holy_Name.html"
+  },
+  "The Feast of the Holy Rosary": {
+    "url": "http://uvoc.org/Holy_Rosary/Holy_Rosary.html"
+  },
+  "The Feast of the Immaculate Conception": {
+    "url": "http://uvoc.org/ICBVM/ICBVM.html"
+  },
+  "The Feast of the Immaculate Heart": {},
+  "The Feast of the Most Holy Name of Mary": {},
+  "The Feast of the Most Precious Blood": {
+    "url": "http://uvoc.org/Precious_Blood/Precious_Blood.html"
+  },
+  "The Feast of the Motherhood of Mary": {},
+  "The Feast of the Nativity of Mary": {},
+  "The Feast of the Presentation of Mary": {},
+  "The Feast of the Queenship of Mary": {},
+  "The Feast of the Sacred Heart": {
+    "url": "http://uvoc.org/Sacred_Heart/Sacred_Heart.html"
+  },
+  "The Feast of the Seven Holy Brothers and SS. Rufina and Secunda": {},
+  "The Feast of the Seven Holy Founders of the Servite Order": {},
+  "The Feast of the Seven Sorrows": {},
+  "The Feast of the Transfiguration": {
+    "url": "http://uvoc.org/Transfiguration/Transfiguration.html"
+  },
+  "The Feast of the Visitation": {},
+  "The Fifteenth Sunday after Pentecost": {
+    "url": "http://uvoc.org/15th_Sun_After_Pent/15th_Sun_After_Pent.html"
+  },
+  "The Fifth Sunday after Easter": {
+    "url": "http://uvoc.org/5th_Sun_After_Easter/5th_Sun_After_Easter.html"
+  },
+  "The Fifth Sunday after Epiphany": {
+    "url": "http://uvoc.org/5th_Sun_After_Epiphany/5th_Sun_After_Epiphany.html"
+  },
+  "The Fifth Sunday after Pentecost": {
+    "url": "http://uvoc.org/5th_Sun_After_Pent/5th_Sun_After_Pent.html"
+  },
+  "The First Sunday of Advent": {
+    "url": "http://uvoc.org/1st_Sun_of_Advent/1st_Sun_of_Advent.html"
+  },
+  "The First Sunday of Lent": {
+    "url": "http://uvoc.org/1st_Sun_of_Lent/1st_Sun_of_Lent.html"
+  },
+  "The Fourteenth Sunday after Pentecost": {
+    "url": "http://uvoc.org/14th_Sun_After_Pent/14th_Sun_After_Pent.html"
+  },
+  "The Fourth Sunday after Epiphany": {
+    "url": "http://uvoc.org/4th_Sun_After_Epiphany/4th_Sun_After_Epiphany.html"
+  },
+  "The Fourth Sunday after Pentecost": {
+    "url": "http://uvoc.org/4th_Sun_After_Pent/4th_Sun_After_Pent.html"
+  },
+  "The Fourth Sunday of Advent": {
+    "url": "http://uvoc.org/4th_Sun_of_Advent/4th_Sun_of_Advent.html"
+  },
+  "The Last Sunday after Pentecost": {},
+  "The Nineteenth Sunday after Pentecost": {
+    "url": "http://uvoc.org/19th_Sun_After_Pent/19th_Sun_After_Pent.html"
+  },
+  "The Ninth Sunday after Pentecost": {
+    "url": "http://uvoc.org/9th_Sun_After_Pent/9th_Sun_After_Pent.html"
+  },
+  "The Second Sunday after Epiphany": {
+    "url": "http://uvoc.org/2nd_Sun_After_Epiphany/2nd_Sun_After_Epiphany.html"
+  },
+  "The Second Sunday after Pentecost": {
+    "url": "http://uvoc.org/2nd_Sun_After_Pent/2nd_Sun_After_Pent.html"
+  },
+  "The Second Sunday of Advent": {
+    "url": "http://uvoc.org/2nd_Sun_of_Advent/2nd_Sun_of_Advent.html"
+  },
+  "The Second Sunday of Lent": {
+    "url": "http://uvoc.org/2nd_Sun_of_Lent/2nd_Sun_of_Lent.html"
+  },
+  "The Seventeenth Sunday after Pentecost": {
+    "url": "http://uvoc.org/17th_Sun_After_Pent/17th_Sun_After_Pent.html"
+  },
+  "The Seventh Sunday after Pentecost": {
+    "url": "http://uvoc.org/7th_Sun_After_Pent/7th_Sun_After_Pent.html"
+  },
+  "The Sixteenth Sunday after Pentecost": {
+    "url": "http://uvoc.org/16th_Sun_After_Pent/16th_Sun_After_Pent.html"
+  },
+  "The Sixth Sunday after Epiphany": {
+    "url": "http://uvoc.org/6th_Sun_After_Epiphany/6th_Sun_After_Epiphany.html"
+  },
+  "The Sixth Sunday after Pentecost": {
+    "url": "http://uvoc.org/6th_Sun_After_Pent/6th_Sun_After_Pent.html"
+  },
+  "The Tenth Sunday after Pentecost": {},
+  "The Third Sunday after Epiphany": {
+    "url": "http://uvoc.org/3rd_Sun_After_Epiphany/3rd_Sun_After_Epiphany.html"
+  },
+  "The Third Sunday after Pentecost": {
+    "url": "http://uvoc.org/3rd_Sun_After_Pent/3rd_Sun_After_Pent.html"
+  },
+  "The Third Sunday of Lent": {
+    "url": "http://uvoc.org/3rd_Sun_of_Lent/3rd_Sun_of_Lent.html"
+  },
+  "The Thirteenth Sunday after Pentecost": {
+    "url": "http://uvoc.org/13th_Sun_After_Pent/13th_Sun_After_Pent.html"
+  },
+  "The Twelfth Sunday after Pentecost": {
+    "url": "http://uvoc.org/12th_Sun_After_Pent/12th_Sun_After_Pent.html"
+  },
+  "The Twentieth Sunday after Pentecost": {
+    "url": "http://uvoc.org/20th_Sun_After_Pent/20th_Sun_After_Pent.html"
+  },
+  "The Twenty-fifth Sunday after Pentecost": {
+    "url": "http://uvoc.org/24th_25th_Sun_After_Pent/25th_Sun_After_Pent.html"
+  },
+  "The Twenty-first Sunday after Pentecost": {
+    "url": "http://uvoc.org/21st_Sun_After_Pent/21st_Sun_After_Pent.html"
+  },
+  "The Twenty-fourth Sunday after Pentecost": {
+    "url": "http://uvoc.org/24th_25th_Sun_After_Pent/24th_Sun_After_Pent.html"
+  },
+  "The Twenty-second Sunday after Pentecost": {
+    "url": "http://uvoc.org/22nd_Sun_After_Pent/22nd_Sun_After_Pent.html"
+  },
+  "The Twenty-seventh Sunday after Pentecost": {
+    "url": "http://uvoc.org/24th_27th_Sun_After_Pent/27th_Sun_After_Pent.html"
+  },
+  "The Twenty-sixth Sunday after Pentecost": {
+    "url": "http://uvoc.org/26th_Sun_After_Pent/26th_Sun_After_Pent.html"
+  },
+  "The Twenty-third Sunday after Pentecost": {
+    "url": "http://uvoc.org/23rd_Sun_After_Pent/23rd_Sun_After_Pent.html"
+  },
+  "The Vigil of the Assumption": {},
+  "The Vigil of the Feast of SS. Peter & Paul": {},
+  "The Vigil of the Feast of St. Lawrence": {},
+  "Three Kings Day": {
+    "url": "http://uvoc.org/Epiphany/Epiphany.html"
+  },
+  "Thursday in Pentecost Week": {},
+  "Trinity Sunday": {
+    "url": "http://uvoc.org/Trinity_Sun/Trinity_Sun.html"
+  },
+  "Tuesday of Holy Week": {},
+  "Twelfth Night": {},
+  "Walpurgisnacht": {},
+  "Whit Embertide": {}
+}
